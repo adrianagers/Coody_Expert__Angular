@@ -1,0 +1,23 @@
+.container-footer {
+  width: 100%;
+  background: #333366;
+  padding: 10px;
+  /* position: fixed;
+  left: 0px;
+  bottom: 0px; */
+  color: blanchedalmond;  
+}
+
+.copyright a {
+  text-decoration: none;
+  color: white;
+}
+
+.information {
+  text-align: right;
+}
+
+.information a {
+  text-decoration: none;
+  color: white;
+}
